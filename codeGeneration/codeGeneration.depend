@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671644382 source:d:\college\forth_year\firstsemester\compilers(eldesoky)\assignments\codegeneration\main.cpp
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<iostream>
+	<cmath>
+
